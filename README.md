@@ -2,16 +2,20 @@
 
 ### To get started
 
-##### Do the following
-
 * Install learnyounode
 ```bash
 $ npm install -g learnyounode
 ```
+
 * Clone this repository
 ```bash
 $ git clone https://github.com/malangjs/learnyounode-solutions.git 
 $ cd learnyounode-solutions
+```
+
+* Install local node packages
+```bash
+$ npm install
 ```
 
 * Run learnyounode
